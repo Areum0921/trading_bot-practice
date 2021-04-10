@@ -1,4 +1,7 @@
-# trading_bot-practice
-trading bot practice with python
+<파이썬으로 배우는 알고리즘 트레이딩>
 
-book : Algorithm trading with python
+취미로 시작한 알고리즘 트레이딩 봇 만들기 프로젝트입니다.
+
+해당 프로젝트는 취직 준비때문에 잠시 쉬고 있습니다.
+
+취직하고 다시 이어서 작업할 예정입니다.
